@@ -1,0 +1,1 @@
+A game studio based in Slovenia focused on a standalone VR.
